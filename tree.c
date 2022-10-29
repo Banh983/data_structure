@@ -3,3 +3,6 @@
 int main() {
 	return 1;
 }
+
+
+int sort() {}
